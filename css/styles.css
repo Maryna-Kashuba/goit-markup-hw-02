@@ -65,9 +65,9 @@ color: var(--NAVY-BLUE, #2E2F42);
 .address-link{
     border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
         background: var(--WHITE, #FFF);
-        font-style: normal;
 }
 
+.address{font-style: normal;}
 .address-item{
 color: var(--SLATE, #434455);
     font-family: Roboto;
