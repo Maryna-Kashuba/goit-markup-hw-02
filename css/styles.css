@@ -35,7 +35,7 @@ li{list-style-type: none;}
 
 
 .header-nav-list{
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var( #2e2f42);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
