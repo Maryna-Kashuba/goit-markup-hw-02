@@ -175,8 +175,17 @@ footer{
 }
 
 .footer-logo{
-flex-shrink: 0;
-}
+        color: var(--IRIS, #4D5AE5);
+        font-family: "Raleway",
+            sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+    }
+
 
 
 
