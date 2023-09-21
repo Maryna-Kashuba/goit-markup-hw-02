@@ -34,7 +34,7 @@ li{list-style-type: none;}
     text-transform: uppercase;}
 
 
-.header-studio{
+.header-nav-list{
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
     font-size: 16px;
@@ -43,26 +43,6 @@ li{list-style-type: none;}
     line-height: 24px;
     letter-spacing: 0.32px;}
 
-
-.header-portfolio{
-    color: var(--NAVY-BLUE, #2E2F42);
-        font-family: Roboto;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 24px;
-        letter-spacing: 0.32px;
-}
-
-.header-contacts{
-color: var(--NAVY-BLUE, #2E2F42);
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-}
 
 .address-link{
     border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
