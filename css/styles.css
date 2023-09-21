@@ -11,7 +11,8 @@ li{list-style-type: none;}
 
 .header-logo{
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
+    font-family: "Raleway",
+        sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
