@@ -1,5 +1,6 @@
 
-body{font-family: 'Roboto', sans-serif;
+body{font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;;
     font-size: 16px;
     color:#434455;
     background: #FFF;}
@@ -7,11 +8,6 @@ body{font-family: 'Roboto', sans-serif;
 a{text-decoration: none;}
 li{list-style-type: none;}
 
-.header-navigation{
-    display: inline-flex;
-        align-items: flex-start;
-        gap: 40px;
-}
 
 .header-logo{
     color: var(--IRIS, #4D5AE5);
@@ -31,7 +27,6 @@ li{list-style-type: none;}
     font-style: normal;
     font-weight: 700;
     line-height: 21px;
-    width: 71px;
     letter-spacing: 0.54px;
     text-transform: uppercase;}
 
@@ -103,11 +98,6 @@ color: var(--SLATE, #434455);
 
 .button{
         background: var(--IRIS, #4D5AE5);
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);display: inline-flex;
-            padding: 16px 32px;
-            align-items: flex-start;
-            gap: 10px;
-
 }
 .button-text{
     color: var(--WHITE, #FFF);
@@ -120,8 +110,6 @@ color: var(--SLATE, #434455);
 }
 
 .strategy{
-    width: 1128px;
-        height: 104px;
         flex-shrink: 0;
         background: #FFF;
 }
@@ -144,17 +132,8 @@ color: var(--SLATE, #434455);
         line-height: 24px;
         letter-spacing: 0.32px;
 }
-.feature-li{
-    display: flex;
-        width: 264px;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 8px;
-}
 .title-team{
     background: var(--CLOUD, #F4F4FD);
-    width: 1440px;
-        height: 732px;
         flex-shrink: 0;
 }
 h2{
@@ -169,60 +148,33 @@ h2{
         text-transform: capitalize;
 }
 .team-card{
-    display: inline-flex;
-        padding-bottom: 0px;
-        flex-direction: column;
         justify-content: center;
-        align-items: center;
-        gap: 32px;
+
 }
 .team-card-mark {
     background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
-    width: 264px;
-    height: 260px;
 }
 
 .team-card-tom {
     background: url(<path-to-image>), lightgray -335.01px -22.055px / 256.162% 173.614% no-repeat;
-    width: 264px;
-    height: 260px;
 }
 
 .team-card-cam {
     background: url(<path-to-image>), lightgray -128.784px -0.151px / 197.563% 133.752% no-repeat;
-    width: 264px;
-    height: 260px;
 }
 
 .team-card-dan {
     background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
-    width: 264px;
-    height: 260px;
+
 }
 
 footer{
     background: var(--NAVY-BLUE, #2E2F42);background: var(--NAVY-BLUE, #2E2F42);
-    width: 1440px;
-        height: 312px;
         flex-shrink: 0;
 }
 
 .footer-logo{
-    display: inline-flex;
-        height: 24px;
-        align-items: center;
-        flex-shrink: 0;
-}
-
-.footer-logo-line{
-    color: var(--IRIS, #4D5AE5);
-        font-family: Raleway;
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 21px;
-        letter-spacing: 0.54px;
-        text-transform: uppercase;
+flex-shrink: 0;
 }
 
 
