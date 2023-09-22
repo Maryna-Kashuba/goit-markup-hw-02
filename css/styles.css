@@ -166,6 +166,21 @@ letter-spacing: 0.02em;
     background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
 
 }
+.portfolio-list-item{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    etter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+
+.portfolio-our-list{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
 
 .footer{
     background: var(--NAVY-BLUE, #2E2F42);
