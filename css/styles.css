@@ -77,10 +77,16 @@ color: var(--SLATE, #434455);
 
 .button{
         background: var(--IRIS, #4D5AE5);
+        cursor: pointer;
+        letter-spacing: 0.04em;
+        line-height: 1.5;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: "Roboto", sans-serif;
 }
 .button-text{
     color: var(--WHITE, #FFF);
-        font-family: "Roboto", sans-serif;
+        font-family: Roboto;
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
