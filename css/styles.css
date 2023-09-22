@@ -141,11 +141,11 @@ color: var(--SLATE, #434455);
 .team-card-mark {
     background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
-.team-card-mark-list{
+.team-card-list{
     color: #2e2f42;
 font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
+font-size: 16px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
