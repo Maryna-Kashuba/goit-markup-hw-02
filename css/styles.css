@@ -44,6 +44,7 @@ li{list-style-type: none;}
 .header-studio-item{
         color: #2e2f42;}
 .header-studio-item:hover, .header-studio-item:focus{color: #404bbf}
+.address-item:hover, .address-item:focus{color: #404bbf}
 
 .address-link{
     background: var(--WHITE, #FFF);
@@ -73,7 +74,7 @@ color: var(--SLATE, #434455);
         font-size: 56px;
         font-style: normal;
         font-weight: 700;
-        line-height: 1.07px;
+        line-height: 1.07;
         letter-spacing: 1.12px;
 }
 
@@ -96,6 +97,8 @@ color: var(--SLATE, #434455);
         line-height: 24px;
         letter-spacing: 0.64px;
 }
+
+.button:hover, .button:focus{background-color: #404BBF}
 
 .strategy{
         flex-shrink: 0;
