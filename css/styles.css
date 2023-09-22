@@ -189,16 +189,16 @@ color: #434455;
 
 .footer{
     background: var(--NAVY-BLUE, #2E2F42);
-        flex-shrink: 0;
-}
+    flex-shrink: 0;}
+
 .footer-logo{
+color: #4d5ae5;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
 }
 .footer-logo-line{color: #f4f4fd;}
 .footer-item-list{line-height: 1.5;
