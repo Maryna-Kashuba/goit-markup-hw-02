@@ -43,7 +43,7 @@ li{list-style-type: none;}
     letter-spacing: 0.32px;}
 .header-studio-item{
         color: #2e2f42;}
-.header-nav-list:hover, .header-nav-list:focus{color: #404bbf}
+.header-studio-item:hover, .header-studio-item:focus{color: #404bbf}
 
 .address-link{
     background: var(--WHITE, #FFF);
