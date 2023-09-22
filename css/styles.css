@@ -77,6 +77,7 @@ color: var(--SLATE, #434455);
 
 .button{
         background: var(--IRIS, #4D5AE5);
+        color: #ffffff;
         cursor: pointer;
         letter-spacing: 0.04em;
         line-height: 1.5;
@@ -121,23 +122,31 @@ color: var(--SLATE, #434455);
     background: var(--CLOUD, #F4F4FD);
         flex-shrink: 0;
 }
-h2{
+.title-team-item{
     color: var(--NAVY-BLUE, #2E2F42);
         text-align: center;
         font-family: Roboto;
         font-size: 36px;
         font-style: normal;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 1.11;
         letter-spacing: 0.72px;
         text-transform: capitalize;
 }
 .team-card{
         justify-content: center;
+        background-color: #FFFFFF;
 
 }
 .team-card-mark {
     background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
+}
+.team-card-mark-list{
+    color: #2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
 
 .team-card-tom {
