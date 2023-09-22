@@ -4,8 +4,7 @@ body{font-family: 'Raleway', sans-serif;
     font-size: 16px;
     color:#434455;
     background: #FFF;
-width: 1440px;
-    height: 3300px;}
+}
 
 a{text-decoration: none;}
 li{list-style-type: none;}
@@ -45,8 +44,7 @@ li{list-style-type: none;}
 
 
 .address-link{
-    border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
-        background: var(--WHITE, #FFF);
+    background: var(--WHITE, #FFF);
 }
 
 .address{font-style: normal;}
@@ -63,8 +61,6 @@ color: var(--SLATE, #434455);
 
 .hero-image{
     background: var(--NAVY-BLUE, #2E2F42);
-    width: 1440px;
-        height: 600px;
         flex-shrink: 0;
 }
 
@@ -191,3 +187,4 @@ h2{
         line-height: 24px;
         letter-spacing: 0.32px;
 }
+
