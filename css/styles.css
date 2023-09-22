@@ -188,12 +188,12 @@ color: #434455;
 }
 
 .footer-logo{
-        color: var(--IRIS, #4d5ae5);
+        color: var(--IRIS, #4D5AE5);
         font-family: "Raleway",
-            sans-serif;        
+            sans-serif;
+        font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
