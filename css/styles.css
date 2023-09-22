@@ -71,7 +71,7 @@ color: var(--SLATE, #434455);
         font-size: 56px;
         font-style: normal;
         font-weight: 700;
-        line-height: 60px;
+        line-height: 1.07px;
         letter-spacing: 1.12px;
 }
 
@@ -80,7 +80,7 @@ color: var(--SLATE, #434455);
 }
 .button-text{
     color: var(--WHITE, #FFF);
-        font-family: Roboto;
+        font-family: "Roboto", sans-serif;
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
