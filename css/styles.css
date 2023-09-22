@@ -191,35 +191,16 @@ color: #434455;
     background: var(--NAVY-BLUE, #2E2F42);
         flex-shrink: 0;
 }
-
 .footer-logo{
-        color: var(--IRIS, #4D5AE5);
-        font-family: "Raleway",
-            sans-serif;
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-    }
-
-
-
-.footer-logo{
-        font-weight: 700;
-        letter-spacing: 0.03em;
-        font-family: "Raleway", sans-serif;
-        font-size: 18px;
-        line-height: 1.17;
-        text-transform: uppercase;
-        color: #4d5ae5;
-
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
 }
-.footer-logo-studio{
-    color: #f4f4fd;  
-}
+.footer-logo-line{color: #f4f4fd;}
 .footer-item-list{line-height: 1.5;
-color: #F4F4FD;
-letter-spacing: 0.02em;}
-
+letter-spacing: 0.02em;
+color: #F4F4FD;}
